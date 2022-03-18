@@ -6,4 +6,4 @@ Then I got many compress files in compress file, learn what file compress type o
 
 ![image](https://user-images.githubusercontent.com/101840614/158912674-b22aa358-d9ec-4c04-b0ba-02e42ad384fe.png)
 
-Decode it and we got the flag: picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_950c4fee}
+Decode it and we got the flag: ```picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_950c4fee}```
