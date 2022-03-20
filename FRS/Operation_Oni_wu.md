@@ -1,4 +1,4 @@
-It's a ssh chall, learn how to find key - private key ssh , export the file nad name it to "key_file" and run the given command by Pico.
+It's a ssh chall, learn how to find key - private key ssh , export the file and name it to "key_file" and run the given command by Pico.
 
 ![image](https://user-images.githubusercontent.com/101840614/159117346-1f5812de-10bc-4e96-bb9e-cb928518c379.png)
 
